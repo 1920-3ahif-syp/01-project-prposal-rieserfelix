@@ -18,7 +18,7 @@ Das Ziel ist, eine Website zu Entwickeln, auf der jeder Lehrer seinen Unterricht
 
 ## Projektziele
 
-Ziel des Projekts ist es, dem Schüler zu Helfen, verpasste Stunden schneller und leichter aufholen zu können.
+Ziel des Projekts ist es, dem Schüler zu Helfen um verpasste Stunden schneller und leichter aufholen zu können.
 
 ## Betroffene
 
