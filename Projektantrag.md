@@ -32,4 +32,4 @@ Sie sollen den verpassten Stoff mithilfe der Dateien und Fotos "nachholen" könn
 
 ## Projektstart / Projektende
 
-Nach Apsprache mit der Lehrkraft.
+Nach Absprache mit der Lehrkraft.
