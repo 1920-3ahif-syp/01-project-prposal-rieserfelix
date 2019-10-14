@@ -24,7 +24,7 @@ Ziel des Projekts ist es, dem Schüler zu Helfen um verpasste Stunden schneller 
 
 ### Lehrer
 
-Sie können den Unterrichtsstoff schenll und einfach hochladen.
+Sie können den Unterrichtsstoff schnell und einfach hochladen.
 
 ### Schüler
 
